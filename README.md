@@ -1,1 +1,1 @@
-# -dev
+Yazılım Mühendisliği Oryantasyonu Vize Ödevi
